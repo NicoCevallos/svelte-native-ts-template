@@ -1,11 +1,11 @@
-This is a barebones svelte-native project template. It was created directly from a nativescript core project template. It provides an easy way to get started with a svelte native project.
+This is a barebones svelte-native + TypeScript project template. It was cloned directly from [halfnelson/svelte-native-template](https://github.com/halfnelson/svelte-native-template). It provides an easy way to get started with a svelte native project.
 
 # Usage
 
 You can get started with this using `degit`:
 
 ```bash
-npx degit halfnelson/svelte-native-template myapp
+npx degit NicoCevallos/svelte-native-ts-template myapp
 cd myapp
 npm install
 ```
